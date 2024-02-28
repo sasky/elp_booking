@@ -4,6 +4,7 @@
 		<h1>$Title</h1>
 
 		<div class="content">$Content</div>
+
 	</article>
 	<section>
 		<% if $AttendeeCount > 0 %>
